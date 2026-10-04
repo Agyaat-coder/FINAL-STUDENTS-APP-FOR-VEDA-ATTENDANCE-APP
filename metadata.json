@@ -1,0 +1,6 @@
+{
+  "name": "VEDA Hostel Students",
+  "description": "Student-side companion application for VEDA Hostel management, featuring attendance marking, hostel notices, mess menu, and student profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
